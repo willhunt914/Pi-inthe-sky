@@ -3,9 +3,7 @@
 ## Planning 
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
-- The only safety precautions for this project would be to wear safety googled and to make sure that nobody is in the way while we are launching the projectile. 
-
-
+- The only safety issues  for this project would  someone gettign hit with the projectile or the slingwshot band snapping. We would fix this by wearing safety goggles and making sure nobody is in the way when we are launching.
 [Materials List](https://docs.google.com/document/d/1O94NrEtbGrpvcdbZZRessnzT4ntu9cPLEgHKotI4B5Y/edit)
 
 ![WIN_20231206_09_42_07_Pro](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/8e2b437d-e054-4eb0-9128-844bc5761be3)
