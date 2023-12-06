@@ -14,28 +14,28 @@ Our first sketch idea for the slingshot and projectile
 
 ### Schedule
 
-Week 1 (jan 2 - 5):
+Week 1 (jan 2 - 5): Finalize CAD and code plans
 
-Week 2 (jan 8 - 12):
+Week 2 (jan 8 - 12): Begin CAD and code prototypes
 
-Week 3 (jan 15 - 19):
+Week 3 (jan 15 - 19): Work on CAD and code
 
-Week 4 (jan 22 - 26):
+Week 4 (jan 22 - 26): Work on CAD and code/wiring
 
-Week 5 (jan 29 - feb 2): 
+Week 5 (jan 29 - feb 2): Try to get functional code product
 
-Week 6 (feb 5 - 9): 
+Week 6 (feb 5 - 9): Work on CAD, troubleshoot code
 
-Week 7 (feb 12 - 16): 
+Week 7 (feb 12 - 16): Troubleshoot code/wiring
 
-Week 8 (feb 19 - 23):
+Week 8 (feb 19 - 23): Finish code and wiring
 
 Week 9 (feb 26 - mar 1): Finish prototype
 
-Week 10 (mar 4 - 8): 
+Week 10 (mar 4 - 8): Finalize CAD and circuitboard
 
-Week 11 (mar 11 - 15):
+Week 11 (mar 11 - 15): Fabricate CAD design and circuitboard
 
-Week 12 (mar 18 - 22):
+Week 12 (mar 18 - 22): Build final product
 
-Week 13 (mar 25 - 28): 
+Week 13 (mar 25 - 28): Final preparations for first launch
