@@ -2,7 +2,9 @@
 
 ## Planning 
 
-- Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance 
+- Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
+- The only safety precautions for this project would be to wear safety googled and to make sure that nobody is in the way while we are launching the projectile. 
+
 
 [Materials List](https://docs.google.com/document/d/1O94NrEtbGrpvcdbZZRessnzT4ntu9cPLEgHKotI4B5Y/edit)
 
