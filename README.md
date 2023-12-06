@@ -20,7 +20,7 @@ Week 3 (jan 15 - 19):
 
 Week 4 (jan 22 - 26):
 
-Week 5 (jan 29 - feb 2):
+Week 5 (jan 29 - feb 2): 
 
 Week 6 (feb 5 - 9): 
 
@@ -28,7 +28,7 @@ Week 7 (feb 12 - 16):
 
 Week 8 (feb 19 - 23):
 
-Week 9 (feb 26 - mar 1):
+Week 9 (feb 26 - mar 1): Finish prototype
 
 Week 10 (mar 4 - 8): 
 
