@@ -39,3 +39,7 @@ Week 11 (mar 11 - 15): Fabricate CAD design and circuitboard
 Week 12 (mar 18 - 22): Build final product
 
 Week 13 (mar 25 - 28): Final preparations for first launch
+
+### Iterations
+
+If we have extra time, we will work on improving the slingshot and/or projectile to make it launch further and faster. 
