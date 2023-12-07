@@ -12,7 +12,11 @@ The goal of this assignment is to have a projectile launch and land without brea
 
 ![WIN_20231206_09_42_07_Pro](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/8e2b437d-e054-4eb0-9128-844bc5761be3)
 
-Our first sketch idea for the slingshot and projectile 
+_Our first sketch idea for the slingshot and projectile_
+
+![image](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/390b0333-f159-4d26-827f-21391df52989)
+
+_Block diagram for code_
 
 ### Schedule
 
