@@ -6,7 +6,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
 - The only safety issues  for this project would  be someone getting hit with the projectile or the slingshot band snapping. We would fix this by wearing safety goggles and making sure nobody is in the way when we are launching.
-
+- A success for this project would be for the payload to launch at least 20 feet without breaking and for it to collect our data. 
 
 [Materials List](https://docs.google.com/document/d/1O94NrEtbGrpvcdbZZRessnzT4ntu9cPLEgHKotI4B5Y/edit)
 
