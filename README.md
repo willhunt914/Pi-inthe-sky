@@ -1,5 +1,7 @@
 # Pi-inthe-sky
 
+The goal of this assignment is to have a projectile launch and land without breaking. The Projectile also has to document the data from the launch. 
+
 ## Planning 
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
