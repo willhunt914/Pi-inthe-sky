@@ -5,7 +5,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 ## Planning 
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
-- To make this happen, we need to ensure that we can remotely save accelerometer data on the pico, and develop the CAD design in a way such that the pico will be safe.
+- To make this happen, we need to ensure that we can remotely save accelerometer data on the pico, and develop the CAD design in a way such that the pico will not break.
 - The only safety issues  for this project would  be someone getting hit with the projectile or the slingshot band snapping. We would fix this by wearing safety goggles and making sure nobody is in the way when we are launching. We will also start by testing the slingshot at less than full power and work our way up.
 - A success for this project would be for the payload to launch at least 20 feet without breaking and for it to collect our data.
 - If we have extra time, we will work on improving the slingshot and/or projectile to make it launch further and faster.
