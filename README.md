@@ -52,3 +52,5 @@ Week 13 (mar 25 - 28): Final preparations for the first launch
 ### Weekly progress
 
 Week 0: This week was mainly focused on planning. We decided that the slingshot was out first and only design. We also began working on our code and got the basic shape of the projectile. 
+
+Week 1: This  week we mainly worked on the CAD of this  prject 
