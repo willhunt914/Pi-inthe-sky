@@ -53,4 +53,4 @@ Week 13 (mar 25 - 28): Final preparations for the first launch
 
 Week 0: This week was mainly focused on planning. We decided that the slingshot was our first and only design. We also began working on our code and got the basic shape of the projectile. 
 
-Week 1: This  week we added holes to screw the two projectile halfs together. We began working on the code using the "Data Saver 1" assignment and building off of it.
+Week 1: This  week we added holes to screw the two projectile halfs together. We began working on the code using the "Data Saver 1" assignment and building off of it. We started planning for the creation of the slingshot as well. 
