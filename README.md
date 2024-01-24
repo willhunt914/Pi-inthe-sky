@@ -55,6 +55,8 @@ Week 1: This week was mainly focused on planning. We decided that the slingshot 
 
 Week 2: This  week we added holes to screw the two projectile halfs together. We began working on the code using the "Data Saver 1" assignment and building off of it. We started planning for the creation of the slingshot as well. 
 
+![Screenshot 2024-01-24 093237](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/fa171d8a-c4e1-4a0b-bd60-e93c20f0c469)
+
 Week 3: This week we completed the sling for the slingshot. We continued to work on the code as well.
 
 ![slingshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/c03777e6-7903-40f0-9b7a-92ef31277af5)
