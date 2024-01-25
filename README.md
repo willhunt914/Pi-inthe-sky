@@ -14,7 +14,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 
 - The biggest safety concerns for this project are the projectile hitting someone or the slingshot breaking
 - For safe launches, we will wear safety glasses, and make sure that nobody is downrange
-- We will also test the slingshot at lower power and work our way up, so that we can identify potential failures andbe confident that it won't break
+- We will also test the slingshot at lower power and work our way up, so that we can identify potential failures and be confident that it won't break
 
 [Materials List](https://docs.google.com/document/d/1O94NrEtbGrpvcdbZZRessnzT4ntu9cPLEgHKotI4B5Y/edit)
 
