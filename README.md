@@ -10,7 +10,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 - If we have extra time, we will work on improving the slingshot and/or projectile to make it launch further and faster.
 - For this project, we still need to learn how to make a slingshot that will launch the projectile far enough. We also have to learn how to make the projectile strong enough so  that it won't break.
 
-###### Safety & Risk Mitigation
+#### Safety & Risk Mitigation
 
 - The biggest safety concerns for this project are the projectile hitting someone or the slingshot breaking
 - For safe launches, we will wear safety glasses, and make sure that nobody is downrange
