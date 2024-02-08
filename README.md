@@ -64,8 +64,6 @@ Week 2: This  week we added holes to screw the two projectile halves together. W
 
 Week 3: This week we completed the sling for the slingshot. We continued to work on the code as well.
 
-Week 4: This week we mainly worked in Onshape and fixed some issues of
-
 ![slingshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/c03777e6-7903-40f0-9b7a-92ef31277af5)
 
 Week 4: This week we continued to troubleshoot the code and get it to work as well as fixing an issue with the screw holes being too small in the onshape document. 
