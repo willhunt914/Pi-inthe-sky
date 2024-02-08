@@ -70,3 +70,9 @@ Week 4: This week we mainly worked in onshape and fixed some issues of
 
 Week 4: This week we continued to troubleshoot the code and get it to work as well as fixing an issue with the screw holes being too small in the onshape document. 
 
+Week 5: This week we mainly focused on the Onshape. Shows below, we added structure to the legs to screw the pico in. 
+
+![support screenshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/10be424d-c8e9-4674-b05e-cc038eb6e1bc)
+
+We also thickened the walls of the spere to make it more sturdy and used the section view to make sure that nothing was intersecting.
+
