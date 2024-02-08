@@ -7,14 +7,14 @@ The goal of this assignment is to have a projectile launch and land without brea
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
 - To make this happen, we need to ensure that we can remotely save accelerometer data on the pico, and develop the CAD design in a way such that the pico will not break.
 - A success for this project would be for the payload to launch at least 20 feet without breaking and for it to collect our data.
-- If we have extra time, we will work on improving the slingshot and/or projectile to make it launch further and faster.
+- If we have extra time, we will improve the slingshot and/or projectile to make it launch further and faster.
 - For this project, we still need to learn how to make a slingshot that will launch the projectile far enough. We also have to learn how to make the projectile strong enough so  that it won't break.
 
 #### Safety & Risk Mitigation
 
 - The biggest safety concerns for this project are the projectile hitting someone or the slingshot breaking
 - For safe launches, we will wear safety glasses, and make sure that nobody is downrange
-- We will also test the slingshot at lower power and work our way up, so that we can identify potential failures and be confident that it won't break
+- We will also test the slingshot at lower power and work our way up so that we can identify potential failures and be confident that it won't break
 
 [Materials List](https://docs.google.com/document/d/1O94NrEtbGrpvcdbZZRessnzT4ntu9cPLEgHKotI4B5Y/edit)
 
@@ -58,21 +58,21 @@ Week 13 (mar 25 - 28): Final preparations for the first launch
 
 Week 1: This week was mainly focused on planning. We decided that the slingshot was our first and only design. We also began working on our code and got the basic shape of the projectile. 
 
-Week 2: This  week we added holes to screw the two projectile halfs together. We began working on the code using the "Data Saver 1" assignment and building off of it. We started planning for the creation of the slingshot as well. 
+Week 2: This  week we added holes to screw the two projectile halves together. We began working on the code using the "Data Saver 1" assignment and building off of it. We started planning for the creation of the slingshot as well. 
 
 ![Screenshot 2024-01-24 093237](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/fa171d8a-c4e1-4a0b-bd60-e93c20f0c469)
 
 Week 3: This week we completed the sling for the slingshot. We continued to work on the code as well.
 
-Week 4: This week we mainly worked in onshape and fixed some issues of
+Week 4: This week we mainly worked in Onshape and fixed some issues of
 
 ![slingshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/c03777e6-7903-40f0-9b7a-92ef31277af5)
 
 Week 4: This week we continued to troubleshoot the code and get it to work as well as fixing an issue with the screw holes being too small in the onshape document. 
 
-Week 5: This week we mainly focused on the Onshape. Shows below, we added structure to the legs to screw the pico in. 
+Week 5: This week we mainly focused on the Onshape. Shown below, we added structure to the legs to screw the pico in. 
 
 ![support screenshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/10be424d-c8e9-4674-b05e-cc038eb6e1bc)
 
-We also thickened the walls of the spere to make it more sturdy and used the section view to make sure that nothing was intersecting.
+We also thickened the walls of the sphere to make it more sturdy and used the section view to make sure that nothing was intersecting.
 
