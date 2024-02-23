@@ -74,3 +74,6 @@ Week 5: This week we mainly focused on the Onshape. Shown below, we added struct
 
 We also thickened the walls of the sphere to make it more sturdy and used the section view to make sure that nothing was intersecting.
 
+Week 6: This week we printed the sphere, and made sure all of the holes for the screws, switch, and LED were the right size. 
+
+![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/150bdcec-7e1f-410f-895b-b98814293792)
