@@ -38,31 +38,31 @@ _Block diagram for code_
 
 ### Schedule
 
-Week 1 (jan 2 - 5): Finalize CAD and code plans
+Week 1 (Jan 2 - 5): Finalize CAD and code plans
 
-Week 2 (jan 8 - 12): Begin CAD and code prototypes
+Week 2 (Jan 8 - 12): Begin CAD and code prototypes
 
-Week 3 (jan 15 - 19): Work on CAD and code
+Week 3 (Jan 15 - 19): Work on CAD and code
 
-Week 4 (jan 22 - 26): Work on CAD and code/wiring
+Week 4 (Jan 22 - 26): Work on CAD and code/wiring
 
-Week 5 (jan 29 - feb 2): Try to get functional code product
+Week 5 (Jan 29 - Feb 2): Try to get functional code product
 
-Week 6 (feb 5 - 9): Work on CAD, troubleshoot code
+Week 6 (Feb 5 - 9): Work on CAD, troubleshoot code
 
-Week 7 (feb 12 - 16): Troubleshoot code/wiring
+Week 7 (Feb 12 - 16): Troubleshoot code/wiring
 
-Week 8 (feb 19 - 23): Finish code and wiring
+Week 8 (Feb 19 - 23): Finish code and wiring
 
-Week 9 (feb 26 - mar 1): Finish prototype
+Week 9 (Feb 26 - Mar 1): Finish prototype
 
-Week 10 (mar 4 - 8): Finalize CAD and circuitboard
+Week 10 (Mar 4 - 8): Finalize CAD and circuit board
 
-Week 11 (mar 11 - 15): Fabricate CAD design and circuit board
+Week 11 (Mar 11 - 15): Fabricate CAD design and circuit board
 
-Week 12 (mar 18 - 22): Build the final product
+Week 12 (Mar 18 - 22): Build the final product
 
-Week 13 (mar 25 - 28): Final preparations for the first launch
+Week 13 (Mar 25 - 28): Final preparations for the first launch
 
 ### Weekly_progress
 
@@ -89,7 +89,7 @@ Week 6: This week we put all our eggs in the code basket. Early in the week, we 
 
 We also thickened the walls of the sphere to make it more sturdy and used the section view to make sure that nothing was intersecting.
 
-Week 6: This week we printed the sphere, and made sure all of the holes for the screws, switch, and LED were the right size. 
+Week 6: This week we printed the sphere and made sure all of the holes for the screws, switch, and LED were the right size. 
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/150bdcec-7e1f-410f-895b-b98814293792)
 
