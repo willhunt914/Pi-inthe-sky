@@ -1,8 +1,14 @@
 # Pi-inthe-sky
 
-The goal of this assignment is to have a projectile launch and land without breaking. The Projectile also has to document the data from the launch. 
+## Table of Contents
+
+* [Planning](#Planning)
+  
 
 ## Planning 
+
+The goal of this assignment is to have a projectile launch and land without breaking. The Projectile also has to document the data from the launch. 
+
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
 - To make this happen, we need to ensure that we can remotely save accelerometer data on the pico, and develop the CAD design in a way such that the pico will not break.
@@ -73,8 +79,9 @@ Week 5: This week we mainly focused on the Onshape. Shown below, we added struct
 ![support screenshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/10be424d-c8e9-4674-b05e-cc038eb6e1bc)
 
 Week 6: This week we put all our eggs in the code basket. Early in the week, we focused on getting the original Data Saver 1 assignment to work and later we added code to get an altimeter to work as well. This code was all relatively simple and the only thing we struggled with was getting the pins to match on the Pico and in the code.  
-![DataCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/datasaver1.py)
-![FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
+[DataCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/datasaver1.py)
+
+[FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
 
 We also thickened the walls of the sphere to make it more sturdy and used the section view to make sure that nothing was intersecting.
 
