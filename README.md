@@ -73,6 +73,8 @@ Week 5: This week we mainly focused on the Onshape. Shown below, we added struct
 ![support screenshot](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/10be424d-c8e9-4674-b05e-cc038eb6e1bc)
 
 Week 6: This week we put all our eggs in the code basket. Early in the week, we focused on getting the original Data Saver 1 assignment to work and later we added code to get an altimeter to work as well. This code was all relatively simple and the only thing we struggled with was getting the pins to match on the Pico and in the code.  
+![DataCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/datasaver1.py)
+![FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
 
 We also thickened the walls of the sphere to make it more sturdy and used the section view to make sure that nothing was intersecting.
 
