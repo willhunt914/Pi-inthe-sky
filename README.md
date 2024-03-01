@@ -3,6 +3,10 @@
 ## Table of Contents
 
 * [Planning](#Planning)
+* [Safety & Risk Mitigation](#Safety/Risk_Mitigation)
+* [Schedule](#Schedule)
+* [Weekly Progress](#Weekly_progress)
+* [Final Reflection](#Final_Reflection)
   
 
 ## Planning 
@@ -16,7 +20,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 - If we have extra time, we will improve the slingshot and/or projectile to make it launch further and faster.
 - For this project, we still need to learn how to make a slingshot that will launch the projectile far enough. We also have to learn how to make the projectile strong enough so  that it won't break.
 
-#### Safety & Risk Mitigation
+#### Safety/Risk_Mitigation
 
 - The biggest safety concerns for this project are the projectile hitting someone or the slingshot breaking
 - For safe launches, we will wear safety glasses, and make sure that nobody is downrange
@@ -60,7 +64,7 @@ Week 12 (mar 18 - 22): Build the final product
 
 Week 13 (mar 25 - 28): Final preparations for the first launch
 
-### Weekly progress
+### Weekly_progress
 
 Week 1: This week was mainly focused on planning. We decided that the slingshot was our first and only design. We also began working on our code and got the basic shape of the projectile. 
 
@@ -88,3 +92,6 @@ We also thickened the walls of the sphere to make it more sturdy and used the se
 Week 6: This week we printed the sphere, and made sure all of the holes for the screws, switch, and LED were the right size. 
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/150bdcec-7e1f-410f-895b-b98814293792)
+
+
+### Final_Reflection
