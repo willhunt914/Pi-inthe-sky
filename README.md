@@ -87,8 +87,20 @@ We also thickened the walls of the sphere to make it more sturdy and used the se
 Week 6: This week we printed the sphere and made sure all of the holes for the screws, switch, and LED were the right size. 
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/150bdcec-7e1f-410f-895b-b98814293792)
+[DataCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/datasaver1.py)
+
+[FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
+
+
+
+
+
 
 Week 7: This week we put all our eggs in the code basket. Early in the week, we focused on getting the original Data Saver 1 assignment to work and later we added code to get an altimeter to work as well. This code was all relatively simple and the only thing we struggled with was getting the pins to match on the Pico and in the code.  
+
+Week 8: This was kind of a rest week for us. Sometimes in a project it takes one step back to go two steps forwards and we needed this step back to stay on track.
+
+
 [DataCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/datasaver1.py)
 
 [FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
