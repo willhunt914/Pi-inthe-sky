@@ -101,7 +101,10 @@ Week 8: This was kind of a rest week for us. Sometimes in a project it takes one
 
 Week 9:
 
-![piinthe skywiring](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/0c917ec4-f363-4596-afea-f286fa11b91b)
+![piinthe skywiring](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/0c917ec4-f363-4596-afea-f286fa11b91b)\
+
+![cowbell](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/5d358a55-ca3d-4559-9f80-79e875e3470c)
+
 
 
 ### Final_Reflection
