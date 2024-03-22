@@ -99,11 +99,13 @@ Week 7: This week we put all our eggs in the code basket. Early in the week, we 
 
 Week 8: This was kind of a rest week for us. Sometimes in a project it takes one step back to go two steps forward and we needed this step back to stay on track.
 
-Week 9:
+Week 9: This week we made updated wiring diagrams, including one on the circuitboard. With this figured out, we should be ready to solder the circuitboard next week.
 
 ![piinthe skywiring](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/0c917ec4-f363-4596-afea-f286fa11b91b)\
 
 ![cowbell](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/5d358a55-ca3d-4559-9f80-79e875e3470c)
+
+Week 10: This week we worked on soldering the circuitboard. We got mostly done, but found some things that needed to be changed and had to spend a lot of time trying to desolder. 
 
 
 
