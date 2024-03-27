@@ -107,6 +107,8 @@ Week 9: This week we made updated wiring diagrams, including one on the circuitb
 
 Week 10: This week we worked on soldering the circuitboard. We got mostly done, but found some things that needed to be changed and had to spend a lot of time trying to desolder. 
 
+Week 11: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuitboard.
 
+![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/c5d71d35-b219-48d4-9a49-1b5821c7fc3d)
 
 ### Final_Reflection
