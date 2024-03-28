@@ -97,17 +97,19 @@ Week 7: This week we put all our eggs in the code basket. Early in the week, we 
 
 [FinalCode](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
 
-Week 8: This was kind of a rest week for us. Sometimes in a project it takes one step back to go two steps forward and we needed this step back to stay on track.
+Week 8: This was kind of a rest week for us. Sometimes in a project, it takes one step back to go two steps forward and we needed this step back to stay on track.
 
-Week 9: This week we made updated wiring diagrams, including one on the circuitboard. With this figured out, we should be ready to solder the circuitboard next week.
+Week 9: This week we made updated wiring diagrams, including one on the circuit board. With this figured out, we should be ready to solder the circuit board next week.
 
 ![piinthe skywiring](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/0c917ec4-f363-4596-afea-f286fa11b91b)\
 
 ![cowbell](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/5d358a55-ca3d-4559-9f80-79e875e3470c)
 
-Week 10: This week we worked on soldering the circuitboard. We got mostly done, but found some things that needed to be changed and had to spend a lot of time trying to desolder. 
+Week 10: This week we worked on soldering the circuit board. We got mostly done but found some things that needed to be changed and had to spend a lot of time trying to desolder. 
 
-Week 11: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuitboard.
+Week 11: This week was mainly focused on desoldering. The switch and battery were both soldered incorrectly so we had to move those parts which was a very tedious process.
+
+Week 12: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuit board. The last thing that we will have to fix is the LED not blinking.
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/c5d71d35-b219-48d4-9a49-1b5821c7fc3d)
 
