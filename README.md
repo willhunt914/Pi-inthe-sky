@@ -109,8 +109,16 @@ Week 10: This week we worked on soldering the circuit board. We got mostly done 
 
 Week 11: This week was mainly focused on desoldering. The switch and battery were both soldered incorrectly so we had to move those parts which was a very tedious process.
 
-Week 12: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuit board. The last thing that we will have to fix is the LED not blinking.
+Week 12: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuit board. 
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/c5d71d35-b219-48d4-9a49-1b5821c7fc3d)
+
+Week 13: This week we found an issue with the bottom half of our sphere. the holes (shown below) were not accurate and did not allow the pico to screw in.
+![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/c46f79a9-4c8c-43d6-979c-225b15da5f87)
+
+To fix this we printed with the sphere facing the other way so that the outside of the sphere looked worse but the inside was accurate and allowed the pico to screw in.
+
+![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/db0cc9b9-622a-44d3-b6ba-d35fb62ac654)
+Improved sphere shown here
 
 ### Final_Reflection
