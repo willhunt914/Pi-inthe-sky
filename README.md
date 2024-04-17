@@ -118,8 +118,12 @@ Week 13: This week we found an issue with the bottom half of our sphere. the hol
 ![Capture](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/5c0e9c0f-1fcd-487f-b121-520f58c8460d)
 
 To fix this we printed with the sphere facing the other way so that the outside of the sphere looked worse but the inside was accurate and allowed the pico to screw in. We also thickened the collums to make the pico more secured when we launch it.
-
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/db0cc9b9-622a-44d3-b6ba-d35fb62ac654)
-Improved sphere shown here
+Improved sphere is shown here
 
 ### Final_Reflection
+
+Will:
+We put all of our chips into this project. We knew that closer it came to the end of the year the less motivation we would have. Because of this we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "data saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries so which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. 
+
+Jack
