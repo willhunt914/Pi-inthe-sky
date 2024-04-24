@@ -130,7 +130,7 @@ https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/b8908008-caed-4c41-9
 Second Launch
 
 ![image](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/2a466842-b951-43f0-8740-12b4606c91d7)
-Data from frist launch
+Data from first launch
 
 The main issue that we had was the Pico and the cowbell became seperated before the first launch. The most likely reason for that was that we dropped it on accident before we shot it and it came appart. The battery also became loose during the launch. To fix this we plan to add some foam inside of ther sphere  to give it more support and hold the pico together.  
 
@@ -138,6 +138,6 @@ The main issue that we had was the Pico and the cowbell became seperated before 
 ### Final_Reflection
 
 Will:
-We put all of our chips into this project. We knew that the closer it came to the end of the year the less motivation we would have. Because of this, we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think about how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "Data Saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. Through the trials and tribulations I became a better engineer and a bettere 
+We put all of our chips into this project. We knew that the closer it came to the end of the year the less motivation we would have. Because of this, we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think about how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "Data Saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. Through the trials and tribulations of this project, I became a better engineer and a better person.  
 
 Jack
