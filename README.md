@@ -109,7 +109,7 @@ Week 10: This week we worked on soldering the circuit board. We got mostly done 
 
 Week 11: This week was mainly focused on desoldering. The switch and battery were both soldered incorrectly so we had to move those parts which was a very tedious process.
 
-Week 12: This week we fixed the issues with the circuit board by reposition and resoldering a few components. After some more troubleshooting, we successful recorded and saved data on the pico using the circuit board. 
+Week 12: This week we fixed the issues with the circuit board by repositioning and resoldering a few components. After some more troubleshooting, we successfully recorded and saved data on the pico using the circuit board. 
 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/c5d71d35-b219-48d4-9a49-1b5821c7fc3d)
 
@@ -121,9 +121,20 @@ To fix this we printed with the sphere facing the other way so that the outside 
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/db0cc9b9-622a-44d3-b6ba-d35fb62ac654)
 Improved sphere is shown here
 
+Week 14: This week was our first official launch and we learned a lot. 
+
+
+https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/b8908008-caed-4c41-9e5b-d67659929b9b
+
+
+https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/e0a7af9b-5579-4325-a1ba-615e4b85e25b
+
+
+
+
 ### Final_Reflection
 
 Will:
-We put all of our chips into this project. We knew that closer it came to the end of the year the less motivation we would have. Because of this we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "data saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries so which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. 
+We put all of our chips into this project. We knew that the closer it came to the end of the year the less motivation we would have. Because of this, we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think about how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "data saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. 
 
 Jack
