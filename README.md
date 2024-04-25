@@ -123,10 +123,12 @@ Improved sphere is shown here
 
 Week 14: This week was our first official launch and we learned a lot. 
 
-![launch1](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/e0a7af9b-5579-4325-a1ba-615e4b85e25b)
+
+![launch1](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/364e096b-91cc-47e8-813c-f9493ff0bfce)
+
+
 First Launch 
 
-![LAunch2](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/b8908008-caed-4c41-9e5b-d67659929b9b)
 Second Launch
 
 ![image](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/2a466842-b951-43f0-8740-12b4606c91d7)
