@@ -136,6 +136,9 @@ The main issue that we had was the Pico and the cowbell became separated after t
 
 ### Final Launch
 
+
+![IMG_8627-ezgif com-crop](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/e201ab76-8007-4c54-b9da-c26cbbc9e589)
+
 This launch went a lot better, and we successfully got all of the data that we needed. 
 
 ![image](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/85a3a8c5-5f3b-477e-8b68-cff8796ce9d4)
