@@ -118,7 +118,9 @@ Week 13: This week we found an issue with the bottom half of our sphere. the hol
 ![Capture](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/5c0e9c0f-1fcd-487f-b121-520f58c8460d)
 
 To fix this we printed with the sphere facing the other way so that the outside of the sphere looked worse but the inside was accurate and allowed the pico to screw in. We also thickened the collums to make the pico more secured when we launch it.
+
 ![unnamed](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/db0cc9b9-622a-44d3-b6ba-d35fb62ac654)
+
 Improved sphere is shown here
 
 Week 14: This week was our first official launch and we learned a lot. 
@@ -130,6 +132,7 @@ Week 14: This week was our first official launch and we learned a lot.
 ### First Launch 
 
 ![image](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/2a466842-b951-43f0-8740-12b4606c91d7)
+
 Data from first launch
 
 The main issue that we had was the Pico and the cowbell became separated after the second launch. The most likely reason was that we did not have any cushioning on the inside to protect it. The battery also became loose during the launch. To fix this we plan to add some foam inside of the sphere  to give it more support and hold the pico together.  
@@ -150,6 +153,13 @@ This graph shows X, Y, and Z acceleration. All of the acceleration values were c
 
 The altimeter data is unfortunately not very helpful, as there isn't much change at t = 249 when the launch occured. The altimeter we used was not very precise, and the values regularly fluctuated by up to a meter. Since there was so much error, and our ball didn't travel very high, there isn't a clear change in the data during the launch. 
 
+### Final Code and Wiring
+
+[Final Code](https://github.com/willhunt914/Pi-inthe-sky/blob/main/pi%20in%20the%20sky/finalproject.py)
+
+![image](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/94aab748-0a67-4023-9d02-8f90b2f98642)
+
+_final wiring on circuitboard_
 
 
 
