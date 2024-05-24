@@ -135,6 +135,9 @@ Second Launch
 Data from first launch
 
 The main issue that we had was the Pico and the cowbell became separated after the second launch. The most likely reason was that we did not have any cushioning on the inside to protect it. The battery also became loose during the launch. To fix this we plan to add some foam inside of the sphere  to give it more support and hold the pico together.  
+### Final_Launch
+
+![image](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/a1c523bf-a6d4-4080-b76e-cc4d5e74630f)
 
 
 ### Final_Reflection
