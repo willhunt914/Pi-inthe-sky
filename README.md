@@ -16,7 +16,7 @@ The goal of this assignment is to have a projectile launch and land without brea
 
 - Our first idea for the project was to do a slingshot because it would be relatively easy to make and could launch a far distance.
 - To make this happen, we need to ensure that we can remotely save accelerometer data on the pico, and develop the CAD design in a way such that the pico will not break.
-- A success for this project would be for the payload to launch at least 20 feet without breaking and for it to collect our data.
+- A success for this project would be for the payload to launch without breaking and for it to collect our data.
 - If we have extra time, we will improve the slingshot and/or projectile to make it launch further and faster.
 - For this project, we still need to learn how to make a slingshot that will launch the projectile far enough. We also have to learn how to make the projectile strong enough so  that it won't break.
 
@@ -127,23 +127,35 @@ Week 14: This week was our first official launch and we learned a lot.
 ![launch1](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/364e096b-91cc-47e8-813c-f9493ff0bfce)
 
 
-First Launch 
-
-Second Launch
+### First Launch 
 
 ![image](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/2a466842-b951-43f0-8740-12b4606c91d7)
 Data from first launch
 
 The main issue that we had was the Pico and the cowbell became separated after the second launch. The most likely reason was that we did not have any cushioning on the inside to protect it. The battery also became loose during the launch. To fix this we plan to add some foam inside of the sphere  to give it more support and hold the pico together.  
 
-### Final_Launch
+### Final Launch
 
-![IMG_8627-ezgif com-crop](https://github.com/willhunt914/Pi-inthe-sky/assets/71402974/e201ab76-8007-4c54-b9da-c26cbbc9e589)
+This launch went a lot better, and we successfully got all of the data that we needed. 
+
+![image](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/85a3a8c5-5f3b-477e-8b68-cff8796ce9d4)
+
+This graph shows X, Y, and Z acceleration. All of the acceleration values were consistent until about t = 249 seconds, when all of the values spike. The X and Y acceleration spikes up as the ball starts travelling quickly, and the Z acceleration spikes down as the ball travels upward against gravity. The actual values for the acceleration seem off, which we're guessing is because our accelerometer is not calibrated very well, but the data still shows the launch very clearly.
+
+
+![image](https://github.com/willhunt914/Pi-inthe-sky/assets/113116262/6270a083-23c0-41a0-b48e-ef087abb27b0)
+
+The altimeter data is unfortunately not very helpful, as there isn't much change at t = 249 when the launch occured. The altimeter we used was not very precise, and the values regularly fluctuated by up to a meter. Since there was so much error, and our ball didn't travel very high, there isn't a clear change in the data during the launch. 
+
+
 
 
 ### Final_Reflection
 
 Will:
+
 We put all of our chips into this project. We knew that the closer it came to the end of the year the less motivation we would have. Because of this, we jumped into the project early. We completed the prototype CAD for the projectile within the first two weeks without running into any problems. It took some time to think about how to create the slingshot but after finding exercise bands in my house the idea came together. Although we had the backbone for the code from the "Data Saver 1" assignment we still ran into some struggles. The Pico would occasionally delete our code.py and boot.py files as well as all of the libraries which delayed the process. The main struggle that I had was doing the soldering. Although I had messed with a soldering iron in the past, I did not know how to wire any of it together. Some of my peers with more knowledge in this department helped a lot with this. Something that wasted a lot of our time was soldering the battery in the wrong holes and without a header. This caused me to have to remove all of the solder from those pins which was a long multi-day process. If I did this project again I would raise the columns that hold the pico so that we could plug the pico into the computer without unscrewing it. I would also have an accessible switch for power on the outside so we could turn it on right before we launched instead of in the classroom. Although these problems caused some issues, I am still very happy with how the project came out. Through the trials and tribulations of this project, I became a better engineer and a better person.  
 
-Jack
+Jack:
+
+The biggest strugle with this project was getting the code to work and save data. It took a lot of troubleshooting and a pico swap, but we eventually got it to work consistently. Our first launch didn't go very well, as we didn't get any data. We're pretty sure that this was because things came loose when it hit the ground, since the accelerometer didn't have power when we recovered it. To keep this from happening again, we added some foam to keep everything in place. The second launch went a lot better, and we successfully got data. If I had to do this project again, I would try to find a more accurate sensor to record height data. I would also change the external switch to be power instead of data/code to make things more convenient. We also could have recorded how far it launched. Overall, I think that this project was a success, as we were able to launch from our homemade slingshot and collect meaningful data from it.
