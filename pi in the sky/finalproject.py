@@ -1,4 +1,4 @@
-##credit for code goes to afton
+
 import board
 import busio
 import adafruit_mpu6050
@@ -6,7 +6,7 @@ import digitalio
 import adafruit_mpl3115a2
 from time import sleep, monotonic
 
-led = digitalio.DigitalInOut(board.GP3)
+led = digitalio.DigitalInOut(board.GP20)
 led.direction = digitalio.Direction.OUTPUT
 sled = digitalio.DigitalInOut(board.LED)
 sled.direction = digitalio.Direction.OUTPUT
